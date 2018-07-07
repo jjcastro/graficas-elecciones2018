@@ -51,7 +51,7 @@ const DEPARTAMENTOS = [
   "Magdalena",
   "Meta",
   "Nariño",
-  "Norte De Santander",
+  "Norte De San",
   "Putumayo",
   "Quindio",
   "Risaralda",
