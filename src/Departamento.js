@@ -44,7 +44,7 @@ const DEPARTAMENTOS = [
   "Choco",
   "Cordoba",
   "Cundinamarca",
-  "Guainoa",
+  "Guainia",
   "Guaviare",
   "Huila",
   "La Guajira",
